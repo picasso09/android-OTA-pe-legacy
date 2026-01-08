@@ -1,0 +1,24 @@
+{
+  "error": false,
+  "filename": "PixelExperience_rock-13.0-2349-COMMUNITY-Signed.zip",
+  "datetime": 1767916140,
+  "size": 1811481746,
+  "url": "https://github.com/picasso09/android-OTA/releases/download/rock-v1.0/PixelExperience_rock-13.0-2349-COMMUNITY-Signed.zip",
+  "filehash": "39eaca83e3fa66128fa11e9394249d7c",
+  "version": "thirteen_plus",
+  "status": "Active",
+  "id": "f2e3f44fa31e7e435b7d2e802f19b7e9a9a449e755648662c0e078f75b421f95",
+  "device_name": "Xiaomi Rock / Stone",
+  "device": "rock",
+  "xda_thread": "https://t.me/Discussion_Verse",
+  "maintainers": [
+    {
+      "main_maintainer": "true",
+      "github_username": "picasso09",
+      "name": "picasso09"
+    }
+  ],
+  "donate_url": "https://t.me/donat_DV",
+  "website_url": "https://github.com/PixelExperience-LEGACY-edition",
+  "news_url": "https://t.me/SD720G_repo"
+}
