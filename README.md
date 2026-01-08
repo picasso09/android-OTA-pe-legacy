@@ -4,7 +4,7 @@ Instructions
 
 Clone this repository with the following command...
 ```bash
-git clone -b thirteen https://github.com/userariii/android-OTA OTA
+git clone -b thirteen https://github.com/picasso09/android-OTA OTA
 ```
 Run:
 ```bash

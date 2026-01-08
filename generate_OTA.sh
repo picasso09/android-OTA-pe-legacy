@@ -29,7 +29,7 @@ filename=$(basename "$file_path")
 build_id=$(echo "$filename" | grep -oP "(?<=PixelExperience_${codename}-13.0-)\d+")
 
 # Construct the download URL
-url="https://github.com/userariii/android-OTA/releases/download/${codename}-${release_tag}/$filename"
+url="https://github.com/picasso09/android-OTA/releases/download/${codename}-${release_tag}/$filename"
 
 # Default values
 output_dir="./OTA/pixelexperience/tiramisu/builds"
