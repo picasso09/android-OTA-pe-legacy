@@ -29,7 +29,7 @@ filename=$(basename "$file_path")
 build_id=$(echo "$filename" | grep -oP "(?<=PixelExperience_${codename}-13.0-)\d+")
 
 # Construct the download URL
-url="https://github.com/picasso09/android-OTA/releases/download/${codename}-${release_tag}/$filename"
+url="https://github.com/picasso09/android-OTA-pe-legacy/releases/download/${codename}-${release_tag}/$filename"
 
 # Default values
 output_dir="./OTA/pixelexperience/tiramisu/builds"
@@ -48,7 +48,7 @@ size=$(stat -c%s "$file_path")
 # Define URLs
 github_releases_url="$url"
 website_url="https://github.com/PixelExperience-LEGACY-edition"
-news_url="https://t.me/SD720G_repo"
+news_url="https://t.me/DV_Projecet"
 
 # Extract maintainer info using awk
 device_name=$(awk -F'=' -v codename="$codename" '$0 ~ "\\["codename"\\]" {flag=1; next} /^\[/ {flag=0} flag && $1=="device" {gsub(/"/, "", $2); print $2}' "$maintainer_info_file" | xargs)
