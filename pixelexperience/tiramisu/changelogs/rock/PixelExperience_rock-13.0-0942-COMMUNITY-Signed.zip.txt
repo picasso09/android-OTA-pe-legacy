@@ -1,8 +1,3 @@
-Build: PixelExperience_rock-13.0-2349-COMMUNITY-Signed.zip
-Date: 2026-01-09 00:19:38
-Build ID: 2349
-- add OTA features
-
 2026-01-09
 Changelogs - 0942
 - add data switch in qs
