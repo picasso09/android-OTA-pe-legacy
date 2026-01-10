@@ -10,3 +10,12 @@ Changelogs - 0942
 keep speaker phone use standar audio quality
 - drop reserved partition schema
 - make ro partition erofs
+
+2026-01-10
+Changelogs - 0717
+- merge ASB 2026-01-01
+- add data switch in qs
+- drop HI-RES speaker
+keep speaker phone use standar audio quality
+- drop reserved partition schema
+- make ro partition erofs
