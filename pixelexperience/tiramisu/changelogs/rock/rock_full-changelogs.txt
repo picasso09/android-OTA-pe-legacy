@@ -19,3 +19,9 @@ Changelogs - 0717
 keep speaker phone use standar audio quality
 - drop reserved partition schema
 - make ro partition erofs
+
+2026-01-12
+Changelogs - 2349
+- porting micamera from miui 14 [ TEST ]
+- all camera work
+- drop gcamgo override to miuicamera

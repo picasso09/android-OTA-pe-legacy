@@ -1,1 +1,5 @@
+2026-01-12
 Changelogs - 2349
+- porting micamera from miui 14 [ TEST ]
+- all camera work
+- drop gcamgo override to miuicamera
