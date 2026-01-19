@@ -1,0 +1,7 @@
+2026-01-19
+Changelogs - 1949
+- drop libshim_sink patch 
+- fix misc sepolicy denial 
+- use gemini bootanimation
+- ppu not spofed play store
+

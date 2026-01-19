@@ -25,3 +25,11 @@ Changelogs - 2349
 - porting micamera from miui 14 [ TEST ]
 - all camera work
 - drop gcamgo override to miuicamera
+
+2026-01-19
+Changelogs - 1949
+- drop libshim_sink patch 
+- fix misc sepolicy denial 
+- use gemini bootanimation
+- ppu not spofed play store
+
