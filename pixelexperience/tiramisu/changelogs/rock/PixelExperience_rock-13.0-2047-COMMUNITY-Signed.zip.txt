@@ -1,38 +1,3 @@
-Build: PixelExperience_rock-13.0-2349-COMMUNITY-Signed.zip
-Date: 2026-01-09 00:19:38
-Build ID: 2349
-- add OTA features
-
-2026-01-09
-Changelogs - 0942
-- add data switch in qs
-- drop HI-RES speaker
-keep speaker phone use standar audio quality
-- drop reserved partition schema
-- make ro partition erofs
-
-2026-01-10
-Changelogs - 0717
-- merge ASB 2026-01-01
-- add data switch in qs
-- drop HI-RES speaker
-keep speaker phone use standar audio quality
-- drop reserved partition schema
-- make ro partition erofs
-
-2026-01-12
-Changelogs - 2349
-- porting micamera from miui 14 [ TEST ]
-- all camera work
-- drop gcamgo override to miuicamera
-
-2026-01-19
-Changelogs - 1949
-- drop libshim_sink patch 
-- fix misc sepolicy denial 
-- use gemini bootanimation
-- ppu not spofed play store
-
 2026-02-02
 Changelogs - 2047
 
@@ -59,4 +24,3 @@ Changelogs - 2047
 
 # Misc:
 - Remove unused init scripts for cleaner boot configuration
-
